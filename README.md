@@ -11,8 +11,6 @@ This repository contains code for predicting stock prices using various time ser
 - [Future Work](#future-work)
 - [How to Run the Code](#how-to-run-the-code)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -69,11 +67,10 @@ In addition to the LSTM model, I plan to implement and compare other time series
 
 To install the necessary libraries and dependencies, create a virtual environment and use the requirements.txt file.
 
-    ```
+    ```python
     # Create a virtual environment (optional but recommended)
     python -m venv venv
     source venv/bin/activate   # For Windows: venv\Scripts\activate
 
     # Install the dependencies
     pip install -r requirements.txt
-    ```
