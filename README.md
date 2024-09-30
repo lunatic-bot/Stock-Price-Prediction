@@ -67,7 +67,6 @@ In addition to the LSTM model, I plan to implement and compare other time series
 
 To install the necessary libraries and dependencies, create a virtual environment and use the requirements.txt file.
 
-    ```python
     # Create a virtual environment (optional but recommended)
     python -m venv venv
     source venv/bin/activate   # For Windows: venv\Scripts\activate
