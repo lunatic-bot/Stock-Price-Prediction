@@ -1,0 +1,7 @@
+yfinance==0.2.43
+pandas
+matplotlib
+keras
+tensorflow
+numpy
+scikit-learn
