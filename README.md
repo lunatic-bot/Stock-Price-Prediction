@@ -76,5 +76,3 @@ To install the necessary libraries and dependencies, create a virtual environmen
 
     # Install the dependencies
     pip install -r requirements.txt
-
-    ```
